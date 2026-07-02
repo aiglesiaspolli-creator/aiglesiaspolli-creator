@@ -21,7 +21,6 @@ I also dedicate myself to **competitive programming, scientific research, and in
   <a href="https://github.com/aiglesiaspolli-creator">
     <img src="https://img.shields.io/badge/GitHub-Aiglesias.Creator-181717?style=for-the-badge&logo=github" />
   </a>
-
   <a href="https://www.linkedin.com/in/arthur-iglesias-polli/">
     <img src="https://img.shields.io/badge/Linkedin-Arthur Iglesias Polli-blue?style=for-the-badge">
   </a>
